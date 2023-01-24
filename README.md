@@ -8,3 +8,5 @@ With the help of Python and the library Matplotlib, I drew a graph of the degree
 Here's what came out of it
 
 ![Graph](https://github.com/LizaPuf/diplomadata/blob/main/Figure_1.png)
+---
+![Graph2](https://github.com/LizaPuf/diplomadata/blob/main/D1D4D7.png)
